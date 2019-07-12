@@ -12,10 +12,10 @@ $ USE_PGXS=1 make; make install
 ```
 
 ## Installation 
-You should add pg_filter to shared_preload_libraries. Restarting database cluster is required. 
+You should add pg_logfilter to shared_preload_libraries. Restarting database cluster is required. 
 
 ```
-shared_preload_libraries = '$libdir/log_suppressor'
+shared_preload_libraries = '$libdir/pg_logfilter'
 ```
 
 
