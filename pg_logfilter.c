@@ -5,6 +5,7 @@
  * Suppress log line using given patterns
  *
  * author ( ckh0618@gmail.com )
+ * License : PostgreSQL License ( https://www.postgresql.org/about/licence )
  * -------------------------------------------------------------------------
  */
 
