@@ -48,3 +48,6 @@ Those database version are tested.
 * PostgreSQL 11 
 * Enterprisedb 11 
 * Enterprisedb 10 
+
+## License
+the PostgreSQL License
