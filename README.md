@@ -1,6 +1,6 @@
 ## pg_logfilter
 
-pg_logfilter is filtering postgresql output log if it matches given patterns.  
+pg_logfilter is PostgreSQL Extension to filt postgresql output log if it matches given patterns.  
 
 
 ## How to build 
